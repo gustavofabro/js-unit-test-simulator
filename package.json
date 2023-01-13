@@ -1,0 +1,16 @@
+{
+  "name": "Teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines" : { 
+    "node" : ">=18"
+  }
+}
